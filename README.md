@@ -1,5 +1,5 @@
 # File-joiner
-Allows to join files and switch between one or another.
+Allows to join files and switch between one or another. It works converting binary files into hexadecimal strings and searching the start and end of each file joined.
 ## Usage
 First you need to join two files, note that exe files don't work with image files, but can be joined with mp3 files and you can't join more than 2 files.
 
